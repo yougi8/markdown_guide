@@ -52,11 +52,43 @@ __* 순서 있는 목록 ( 순서 부여 )__
 __* 순서 없는 목록__  
 
     * 빨강
-      * 녹색  
-         * 파랑  
+       * 녹색  
+          * 파랑  
       
 * 빨강  
    * 녹색  
       * 파랑  
+     
+## 4. 코드  
+__4_1. 블록 만들기__  
+하나의 탭 또는 4개의 공백들로 블록 안에 글씨를 쓸 수 있다. 앞뒤로 한줄씩 띄어쓰기를 해야 한다.  
+
+    This is a normal paragraph:  
+    
+         This is a code block.  
+         
+    end code block.  
+  
+적용 예 :  
+***  
+This is a normal paragraph:  
+
+    This is a code block.  
+    
+end code block.  
+*** 
+
+이때 앞뒤로 한 줄 띄어쓰기를 하지 않으면 제대로 블록이 만들어지지 않는다.
+
+    This is a normal paragraph:  
+        This is a code block.  ( 앞에 4칸 들여쓰기만 되어있고, 앞뒤로 한 줄씩은 안 띄었다. )
+    end code block.  
+적용 예 :  
+***
+This is a normal pragraph:
+    This is a code block.  
+end code block.  
+***
+
 
 참고 : <https://gist.github.com/ihoneymon/652be052a0727ad59601>
