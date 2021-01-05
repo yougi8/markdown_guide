@@ -105,4 +105,6 @@ end code block.
 __4_2. 코드 블록__  
 // 나중에 다시 작성 //  
 
+## 5. 강조
+
 참고 : <https://gist.github.com/ihoneymon/652be052a0727ad59601>
