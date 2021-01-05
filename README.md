@@ -62,6 +62,7 @@ __* 순서 있는 목록 ( 순서 부여 )__
 3. 세번째  
 
 __* 순서 없는 목록__  
+순서 없는 모록에 사용 가능한 기호는 * , + , - 이다. ( 혼합하여 사용 가능 )  
 
     * 빨강
        * 녹색  
@@ -105,6 +106,41 @@ end code block.
 __4_2. 코드 블록__  
 // 나중에 다시 작성 //  
 
-## 5. 강조
+## 5. 강조  
+
+    *single asterisks*  
+    _single underscores_  
+    **double asterisks**  
+    __double underscores__  
+    ~~cancelline~~  
+    
+적용 예 :  
+***  
+*single asterisks - 눕히기*  
+_single underscores - 눕히기_  
+**double asterisks - 두껍게**  
+__double underscores - 두껍게__  
+~~cancelline - 취소선~~  
+***  
+
+## 6. 수평선  
+
+    * * *   
+    
+    ***  
+    
+    *****  
+    
+    - - -   
+    
+    --------------------------------------------  
+    
+적용 예 :  
+* * *   
+***  
+*****  
+- - -   
+---------------------------------  
+
 
 참고 : <https://gist.github.com/ihoneymon/652be052a0727ad59601>
