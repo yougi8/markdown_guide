@@ -7,7 +7,7 @@
     #### This is a h4  
     ##### This is a h5  
     ##### This is a h6    
-This is a normal paragraph:
+This is a normal paragraph:  
     This is a code block. 
 end code block.
 
