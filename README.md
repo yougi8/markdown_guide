@@ -21,7 +21,7 @@
     * 줄 바꿈을 하기 위해서는 문장 마지막에서 3칸 이상을 띄어쓰기 해야 한다.    
     이렇게 ( 띄어쓰기 한 문장 )   
 
-적용 예 : 
+ 적용 예 : 
 *** 
 * 줄 바꿈을 하기 위해서는 문장 마지막에서 3칸 이상을 띄어쓰기 해야 한다.
   이렇게 ( 띄어쓰기 안 한 문장 )  
@@ -39,7 +39,7 @@ h1부터 h6까지 **'#'** 을 붙여 사용 가능하다.
     ##### This is a h5.  
     ###### This is a h6.  
 
-적용 예 :   
+ 적용 예 :   
 *** 
 # This is a h1.
 ## This is a h2.  
@@ -82,7 +82,7 @@ __4_1. 블록 만들기__
          
     end code block.  
   
-적용 예 :  
+ 적용 예 :  
 ***  
 This is a normal paragraph:  
 
@@ -96,7 +96,7 @@ end code block.
     This is a normal paragraph:  
         This is a code block.  ( 앞에 4칸 들여쓰기만 되어있고, 앞뒤로 한 줄씩은 안 띄었다. )
     end code block.  
-적용 예 :  
+ 적용 예 :  
 ***
 This is a normal pragraph:  
     This is a code block.  
@@ -114,7 +114,7 @@ __4_2. 코드 블록__
     __double underscores__  
     ~~cancelline~~  
     
-적용 예 :  
+ 적용 예 :  
 ***  
 *single asterisks - 눕히기*  
 _single underscores - 눕히기_  
@@ -135,7 +135,7 @@ __double underscores - 두껍게__
     
     --------------------------------------------  
     
-적용 예 :  
+ 적용 예 :  
 * * *   
 
 ***  
