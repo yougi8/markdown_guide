@@ -9,8 +9,8 @@ h1부터 h6까지 사용 가능하다.
     ##### This is a h5.  
     ###### This is a h6.  
 
-*** 
 적용 예 :   
+*** 
 # This is a h1.
 ## This is a h2.  
 ### This is a h3.  
