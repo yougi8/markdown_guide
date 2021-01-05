@@ -85,10 +85,12 @@ end code block.
     end code block.  
 적용 예 :  
 ***
-This is a normal pragraph:
+This is a normal pragraph:  
     This is a code block.  
 end code block.  
 ***
 
+__4_2. 코드 블록__  
+// 나중에 다시 작성 //  
 
 참고 : <https://gist.github.com/ihoneymon/652be052a0727ad59601>
