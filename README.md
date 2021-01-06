@@ -169,14 +169,14 @@ __double underscores - 두껍게__
 ### 8. 링크  
 일반적인 url이나 이메일 주소는 별도의 문법 없이 링크가 생성된다.  
     
-    https://google.com : 문법 없이
+    https://google.com : 문법 없이  
     [Google](https://google.com "google 바로 이동")  
     [Naver](https://naver.com "naver 바로 이동")  
     [Naver](https://naver.com) : 링크 설명 생략 가능  
     
   적용 예 :  
   ***  
-  https://google.com : 문법 없이
+  https://google.com : 문법 없이  
   [Google](https://google.com "google 바로 이동")  
   [Naver](https://naver.com "naver 바로 이동")  
   [Naver](https://naver.com) : 링크 설명 생략 가능  
