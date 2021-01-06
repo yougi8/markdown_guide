@@ -111,6 +111,7 @@ __4_2. 문장 중간에 박스 넣기__
   적용 예 :  
   ***  
   물음표 기호는 `?`로 표현한다.  
+  ***  
 
 ## 5. 강조  
 
@@ -164,5 +165,18 @@ __double underscores - 두껍게__
 >> 중첩 인용문 가능  
 >>> 중중첩 인용문 가능  
 ***   
+
+## 8. 링크  
+
+    [Google](https://google.com "google 바로 이동")  
+    [Naver](https://naver.com "naver 바로 이동")  
+    [Naver](https://naver.com) : 링크 설명 생략 가능  
+    
+  적용 예 :  
+  ***  
+  [Google](https://google.com "google 바로 이동")  
+  [Naver](https://naver.com "naver 바로 이동")  
+  [Naver](https://naver.com) : 링크 설명 생략 가능  
+  ***  
 
 참고 : <https://gist.github.com/ihoneymon/652be052a0727ad59601>
