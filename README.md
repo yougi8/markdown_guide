@@ -72,7 +72,7 @@ __* 순서 없는 목록__
    * 녹색  
       * 파랑  
      
-### 4.   
+### 4.
 __4_1. 블록 만들기__  
 하나의 탭 또는 4개의 공백들로 블록 안에 글씨를 쓸 수 있다. 앞뒤로 한줄씩 띄어쓰기를 해야 한다.  
 
@@ -122,7 +122,34 @@ __4_3. 코드블록__
                   printf("Hello world");  
             }  
             return 0;  
+       ```  
+       
+       ``` hello.c  // 처음 백쿼트 뒤에 알아보기 쉽게 코드 이름을 써줄 수 있다.  
+           <stdio.h>  
+           int main(){
+                  printf("Hello world");  
+           }  
+           return 0;  
        ```
+       
+  적용 예 :  
+  ***  
+  ```  
+      <stdio.h>  
+      int main(){  
+            printf("Hello world");  
+      }  
+      return 0;  
+ ```  
+ 
+ ``` hello.c  // 처음 백쿼트 뒤에 알아보기 쉽게 코드 이름을 써줄 수 있다.  
+     <stdio.h>  
+     int main(){  
+           printf("Hello world");  
+     }  
+     return 0;  
+ ```  
+ ***  
 
 ### 5. 강조  
 
