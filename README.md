@@ -124,7 +124,7 @@ __4_3. 코드블록__
             return 0;  
        ```  
        
-       ``` hello.c  // 처음 백쿼트 뒤에 알아보기 쉽게 코드 이름을 써줄 수 있다.  
+       ``` c:hello.c  // 처음 백쿼트 뒤에 알아보기 쉽게 코드 종류와 이름을 써줄 수 있다.  
            <stdio.h>  
            int main(){
                   printf("Hello world");  
